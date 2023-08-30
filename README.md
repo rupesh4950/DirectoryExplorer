@@ -9,6 +9,9 @@ for windows :
                                                                 - cd go
                                                                  - javac folderExplorer.java
                                                                  -java folderExplorer
+
+
+
 for Linux -
 1) In terminal run -git clone https://github.com/rupesh4950/ForlderFinerInWebSite.git
 2)      Run the following commands                              - cd FolderFinerInwebsite
