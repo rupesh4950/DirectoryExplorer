@@ -7,11 +7,10 @@ for windows :
   1) open any browser and navigate to https://github.com/rupesh4950/ForlderFinerInWebSite.git  then unzip folder
   or if you have git run in cmd - git clone https://github.com/rupesh4950/ForlderFinerInWebSite.git
   2) Open cmd in the Unziped folder location run these commands
-  3)    Run the following commands                              - cd FolderFinerInwebsite\n
+  3)    Run the following commands                              - cd FolderFinerInwebsite
                                                                 - cd go
-                                                                - javac folderExplorer.java
-                                                                -java folderExplorer
-
+                                                                 - javac folderExplorer.java
+                                                                 -java folderExplorer
 
 
 for Linux -
